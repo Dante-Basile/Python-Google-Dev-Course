@@ -1,2 +1,1 @@
-*.html linguist-detectable=false
-*.dcl linguist-detectable=false
+linguist-language=Python
